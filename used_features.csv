@@ -1,0 +1,170 @@
+﻿codes,code_without_00,description,dataType
+eid,eid,eid,Integer
+20456-0.0,20456,Ever addicted to illicit or recreational drugs,Categorical (single)
+92-0.0,92,Operation year/age first occurred,Integer
+93-0.0,93,"Systolic blood pressure, manual reading",Integer
+94-0.0,94,"Diastolic blood pressure, manual reading",Integer
+95-0.0,95,Pulse rate (during blood-pressure measurement),Integer
+102-0.0,102,"Pulse rate, automated reading",Integer
+134-0.0,134,Number of self-reported cancers,Integer
+135-0.0,135,Number of self-reported non-cancer illnesses,Integer
+136-0.0,136,"Number of operations, self-reported",Integer
+670-0.0,670,Type of accommodation lived in,Categorical (single)
+680-0.0,680,Own or rent accommodation lived in,Categorical (single)
+709-0.0,709,Number in household,Integer
+738-0.0,738,Average total household income before tax,Categorical (single)
+757-0.0,757,Time employed in main current job,Integer
+767-0.0,767,Length of working week for main job,Integer
+777-0.0,777,Frequency of travelling from home to job workplace,Integer
+796-0.0,796,Distance between home and job workplace,Integer
+806-0.0,806,Job involves mainly walking or standing,Categorical (single)
+816-0.0,816,Job involves heavy manual or physical work,Categorical (single)
+826-0.0,826,Job involves shift work,Categorical (single)
+874-0.0,874,Duration of walks,Integer
+884-0.0,884,Number of days/week of moderate physical activity 10+ minutes,Integer
+894-0.0,894,Duration of moderate activity,Integer
+904-0.0,904,Number of days/week of vigorous physical activity 10+ minutes,Integer
+914-0.0,914,Duration of vigorous activity,Integer
+924-0.0,924,Usual walking pace,Categorical (single)
+943-0.0,943,Frequency of stair climbing in last 4 weeks,Categorical (single)
+971-0.0,971,Frequency of walking for pleasure in last 4 weeks,Categorical (single)
+981-0.0,981,Duration walking for pleasure,Categorical (single)
+991-0.0,991,Frequency of strenuous sports in last 4 weeks,Categorical (single)
+1001-0.0,1001,Duration of strenuous sports,Categorical (single)
+1011-0.0,1011,Frequency of light DIY in last 4 weeks,Categorical (single)
+1021-0.0,1021,Duration of light DIY,Categorical (single)
+1031-0.0,1031,Frequency of friend/family visits,Categorical (single)
+1070-0.0,1070,Time spent watching television (TV),Integer
+1080-0.0,1080,Time spent using computer,Integer
+1090-0.0,1090,Time spent driving,Integer
+1100-0.0,1100,Drive faster than motorway speed limit,Categorical (single)
+1110-0.0,1110,Length of mobile phone use,Categorical (single)
+1120-0.0,1120,Weekly usage of mobile phone in last 3 months,Categorical (single)
+1130-0.0,1130,Hands-free device/speakerphone use with mobile phone in last 3 month,Categorical (single)
+1140-0.0,1140,Difference in mobile phone use compared to two years previously,Categorical (single)
+1150-0.0,1150,Usual side of head for mobile phone use,Categorical (single)
+1160-0.0,1160,Sleep duration,Integer
+1170-0.0,1170,Getting up in morning,Categorical (single)
+1190-0.0,1190,Nap during day,Categorical (single)
+1200-0.0,1200,Sleeplessness / insomnia,Categorical (single)
+1220-0.0,1220,Daytime dozing / sleeping,Categorical (single)
+1239-0.0,1239,Current tobacco smoking,Categorical (single)
+1249-0.0,1249,Past tobacco smoking,Categorical (single)
+1259-0.0,1259,Smoking/smokers in household,Categorical (single)
+1269-0.0,1269,Exposure to tobacco smoke at home,Integer
+1279-0.0,1279,Exposure to tobacco smoke outside home,Integer
+1488-0.0,1488,Tea intake,Integer
+1498-0.0,1498,Coffee intake,Integer
+1508-0.0,1508,Coffee type,Categorical (single)
+1528-0.0,1528,Water intake,Integer
+1558-0.0,1558,Alcohol intake frequency.,Categorical (single)
+1568-0.0,1568,Average weekly red wine intake,Integer
+1578-0.0,1578,Average weekly champagne plus white wine intake,Integer
+1588-0.0,1588,Average weekly beer plus cider intake,Integer
+1598-0.0,1598,Average weekly spirits intake,Integer
+1608-0.0,1608,Average weekly fortified wine intake,Integer
+1618-0.0,1618,Alcohol usually taken with meals,Categorical (single)
+1628-0.0,1628,Alcohol intake versus 10 years previously,Categorical (single)
+1787-0.0,1787,Maternal smoking around birth,Categorical (single)
+1807-0.0,1807,Father's age at death,Integer
+1873-0.0,1873,Number of full brothers,Integer
+1883-0.0,1883,Number of full sisters,Integer
+1930-0.0,1930,Miserableness,Categorical (single)
+1940-0.0,1940,Irritability,Categorical (single)
+1950-0.0,1950,Sensitivity / hurt feelings,Categorical (single)
+1970-0.0,1970,Nervous feelings,Categorical (single)
+1980-0.0,1980,Worrier / anxious feelings,Categorical (single)
+1990-0.0,1990,Tense / 'highly strung',Categorical (single)
+2000-0.0,2000,Worry too long after embarrassment,Categorical (single)
+2010-0.0,2010,Suffer from 'nerves',Categorical (single)
+2020-0.0,2020,"Loneliness, isolation",Categorical (single)
+2030-0.0,2030,Guilty feelings,Categorical (single)
+2060-0.0,2060,Frequency of unenthusiasm / disinterest in last 2 weeks,Categorical (single)
+2070-0.0,2070,Frequency of tenseness / restlessness in last 2 weeks,Categorical (single)
+2080-0.0,2080,Frequency of tiredness / lethargy in last 2 weeks,Categorical (single)
+2178-0.0,2178,Overall health rating,Categorical (single)
+2316-0.0,2316,Wheeze or whistling in the chest in last year,Categorical (single)
+2335-0.0,2335,Chest pain or discomfort,Categorical (single)
+2415-0.0,2415,Had major operations,Categorical (single)
+2443-0.0,2443,Diabetes diagnosed by doctor,Categorical (single)
+2453-0.0,2453,Cancer diagnosed by doctor,Categorical (single)
+2644-0.0,2644,"Light smokers, at least 100 smokes in lifetime",Categorical (single)
+2844-0.0,2844,Had other major operations,Categorical (single)
+2867-0.0,2867,Age started smoking in former smokers,Integer
+2966-0.0,2966,Age high blood pressure diagnosed,Integer
+2976-0.0,2976,Age diabetes diagnosed,Integer
+3426-0.0,3426,Job involves night shift work,Categorical (single)
+4079-0.0,4079,"Diastolic blood pressure, automated reading",Integer
+4080-0.0,4080,"Systolic blood pressure, automated reading",Integer
+4526-0.0,4526,Happiness,Categorical (single)
+4537-0.0,4537,Work/job satisfaction,Categorical (single)
+4548-0.0,4548,Health satisfaction,Categorical (single)
+4559-0.0,4559,Family relationship satisfaction,Categorical (single)
+4570-0.0,4570,Friendships satisfaction,Categorical (single)
+4581-0.0,4581,Financial situation satisfaction,Categorical (single)
+4717-0.0,4717,Shortness of breath walking on level ground,Categorical (single)
+5983-0.0,5983,"ECG, heart rate",Integer
+6143-0.0,6143,Transport type for commuting to job workplace,Categorical (multiple)
+6144-0.0,6144,"Never eat eggs, dairy, wheat, sugar",Categorical (multiple)
+6145-0.0,6145,"Illness, injury, bereavement, stress in last 2 years",Categorical (multiple)
+6153-0.0,6153,"Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones",Categorical (multiple)
+6154-0.0,6154,"Medication for pain relief, constipation, heartburn",Categorical (multiple)
+6162-0.0,6162,Types of transport used (excluding work),Categorical (multiple)
+20116-0.0,20116,Smoking status,Categorical (single)
+20117-0.0,20117,Alcohol drinker status,Categorical (single)
+20121-0.0,20121,Cascot confidence score,Integer
+20127-0.0,20127,Neuroticism score,Integer
+20533-0.0,20533,Trouble falling asleep,Categorical (single)
+21000-0.0,21000,Ethnic background,Categorical (single)
+21001-0.0,21001,Body mass index (BMI),Continuous
+21002-0.0,21002,Weight,Continuous
+21021-0.0,21021,Pulse wave Arterial Stiffness index,Continuous
+22620-0.0,22620,Job involved shift work,Categorical (single)
+22630-0.0,22630,Day shifts worked,Categorical (single)
+22631-0.0,22631,Period spent working day shifts,Continuous
+23098-0.0,23098,Weight,Continuous
+23099-0.0,23099,Body fat percentage,Continuous
+23100-0.0,23100,Whole body fat mass,Continuous
+23101-0.0,23101,Whole body fat-free mass,Continuous
+23102-0.0,23102,Whole body water mass,Continuous
+23104-0.0,23104,Body mass index (BMI),Continuous
+23106-0.0,23106,Impedance of whole body,Continuous
+23107-0.0,23107,Impedance of leg (right),Continuous
+23108-0.0,23108,Impedance of leg (left),Continuous
+23109-0.0,23109,Impedance of arm (right),Continuous
+23110-0.0,23110,Impedance of arm (left),Continuous
+23111-0.0,23111,Leg fat percentage (right),Continuous
+23112-0.0,23112,Leg fat mass (right),Continuous
+23113-0.0,23113,Leg fat-free mass (right),Continuous
+23114-0.0,23114,Leg predicted mass (right),Continuous
+23115-0.0,23115,Leg fat percentage (left),Continuous
+23116-0.0,23116,Leg fat mass (left),Continuous
+23117-0.0,23117,Leg fat-free mass (left),Continuous
+23118-0.0,23118,Leg predicted mass (left),Continuous
+23119-0.0,23119,Arm fat percentage (right),Continuous
+23120-0.0,23120,Arm fat mass (right),Continuous
+23121-0.0,23121,Arm fat-free mass (right),Continuous
+23122-0.0,23122,Arm predicted mass (right),Continuous
+23123-0.0,23123,Arm fat percentage (left),Continuous
+23124-0.0,23124,Arm fat mass (left),Continuous
+23125-0.0,23125,Arm fat-free mass (left),Continuous
+23126-0.0,23126,Arm predicted mass (left),Continuous
+23127-0.0,23127,Trunk fat percentage,Continuous
+23128-0.0,23128,Trunk fat mass,Continuous
+23129-0.0,23129,Trunk fat-free mass,Continuous
+23130-0.0,23130,Trunk predicted mass,Continuous
+26411-0.0,26411,Income score (England),Continuous
+26412-0.0,26412,Employment score (England),Continuous
+26413-0.0,26413,Health score (England),Continuous
+26415-0.0,26415,Housing score (England),Continuous
+26417-0.0,26417,Living environment score (England),Continuous
+26418-0.0,26418,Income score (Wales),Continuous
+26419-0.0,26419,Employment score (Wales),Continuous
+26420-0.0,26420,Health score (Wales),Continuous
+26423-0.0,26423,Housing score (Wales),Continuous
+26424-0.0,26424,Physical environment score (Wales),Continuous
+26425-0.0,26425,Community safety score (Wales),Continuous
+26428-0.0,26428,Income score (Scotland),Continuous
+26430-0.0,26430,Health score (Scotland),Continuous
+26432-0.0,26432,Housing score (Scotland),Continuous
+131298-0.0,131298,MI First Date Reported,Date
