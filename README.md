@@ -50,8 +50,8 @@ The model faced challenges due to the limited representation of MI cases (2% of 
 
 The confusion matrix for the test set showed:
 
-- **True Negatives**: 43,825 (85.57%)
-- **False Positives**: 7,543 (14.43%)
+- **True Negatives**: 62,585 (65.59%)
+- **False Positives**: 32,834 (34.41%)
 - **False Negatives**: 874 (30.44%)
 - **True Positives**: 1,997 (69.56%)
 
